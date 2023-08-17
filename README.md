@@ -1,19 +1,24 @@
-### Hi there 👋
+### Hello, I'm Timothy 👋
 
-<!--
-**timkmitchell/timkmitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m constantly trying to sharpen and improve my skills as a Web Developer
+🌱 I’m currently learning MySQL and Node.js
+  
+📫 How to reach me: [timothy.scrggsmit89@gmail.com](mailto:timothy.scrggsmit89@gmail.com)  
+🌐 Website: [tkscrmit.me](https://tkscrmit.me)  
+  
+  
+### My Tech:
 
-Here are some ideas to get you started:
+<div>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>  
+  
+  
+### My GitHub Stats:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timkmitchell)](https://github.com/anuraghazra/github-readme-stats)
 
-![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timkmitchell&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timkmitchell)](https://github.com/anuraghazra/github-readme-stats)
