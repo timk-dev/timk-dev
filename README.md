@@ -1,6 +1,7 @@
 ### Hello, I'm Timothy 👋
 
 🔭 I’m constantly trying to sharpen and improve my skills as a Web Developer
+
 🌱 I’m currently learning MySQL and Node.js
   
 📫 How to reach me: [timothy.scrggsmit89@gmail.com](mailto:timothy.scrggsmit89@gmail.com)  
@@ -20,5 +21,4 @@
 ### My GitHub Stats:  
 
 [![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timkmitchell)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timkmitchell)](https://github.com/anuraghazra/github-readme-stats)
