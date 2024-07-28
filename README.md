@@ -3,7 +3,7 @@
 🔭 I’m constantly trying to sharpen and improve my skills as a Web Developer
   
 📫 How to reach me: [timothy.scrggsmit89@gmail.com](mailto:timothy.scrggsmit89@gmail.com)  
-🌐 Website: [tkscrmit.me](https://timothyfrontend.vercel.app)  
+🌐 Website: [timothyfrontend.vercel.app](https://timothyfrontend.vercel.app)  
 
 🌱 I’m currently learning MySQL and Node.js
   
