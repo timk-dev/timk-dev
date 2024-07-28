@@ -21,9 +21,9 @@
   
 ### My GitHub Stats:  
 
-[![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timkmitchell)](https://github.com/anuraghazra/github-readme-stats)
+[![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timk-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Languages: 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timkmitchell&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timk-dev&layout=compact)
 
