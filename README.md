@@ -1,4 +1,4 @@
-### Hello, I'm Tim. 👋
+### Hello👋
 
 🔭 I’m constantly trying to sharpen and improve my skills as a Web Developer
   
